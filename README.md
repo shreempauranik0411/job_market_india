@@ -1,5 +1,5 @@
 ## Report
-Read the full analysis here: [IT Jobs India Report](IT_Jobs_India_Report.pdf)
+Read the full analysis here: [Data_Analyst_Jobs_India_Report.pdf]
 
 
 # IT Job Market in India: Data Collection & Analysis
