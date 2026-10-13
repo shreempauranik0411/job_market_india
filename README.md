@@ -1,3 +1,7 @@
+## Report
+Read the full analysis here: [IT Jobs India Report](IT_Jobs_India_Report.pdf)
+
+
 # IT Job Market in India: Data Collection & Analysis
 
 A Python project that collects IT job listings in India from the
